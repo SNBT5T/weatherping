@@ -23,3 +23,7 @@ A beadandó célja egy egyszerű HTTP-n elérhető alkalmazás létrehozása, ma
 
 A WeatherPing egy egyszerű HTTP API, amely a következő szöveget adja vissza:
 
+# 2. Publikus elérés
+
+Az app  publikus URL-je:
+https://weatherping.onrender.com/
