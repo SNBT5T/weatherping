@@ -1,0 +1,7 @@
+{
+  "name": "WeatherPing DevContainer",
+  "dockerFile": "Dockerfile",
+  "context": "..",
+  "postCreateCommand": "npm install",
+  "forwardPorts": [5000]
+}
