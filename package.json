@@ -1,0 +1,13 @@
+{
+  "name": "weatherping",
+  "version": "1.0.0",
+  "description": "Egyszerű időjárási API DevOps bemutatóhoz",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"WeatherPing build complete (Node.js nem igényel fordítást)\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
