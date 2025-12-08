@@ -8,9 +8,10 @@ const server = http.createServer((req, res) => {
   if (req.url === "/status") {
     res.end("STATUS: OK\n");
   } else {
-    res.end("WeatherPing API is running – Sunny 25°C\n");
+    res.end("WeatherPing API is running – Napos 25°C\n");
   }
 });
+
 
 server.listen(PORT, () => {
   console.log(`WeatherPing listening on http://localhost:${PORT}`);
